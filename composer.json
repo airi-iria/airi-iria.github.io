@@ -1,0 +1,10 @@
+{
+    "require": {
+        "slim/slim": "2.*",
+        "pimple/pimple": "*",
+        "illuminate/database": "4.0.*",
+        "monolog/monolog": "@stable",
+        "swiftmailer/swiftmailer": "@stable",
+        "twig/twig": "1.*"
+    }
+}
